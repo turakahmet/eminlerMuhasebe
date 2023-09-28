@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EminlerMuhasebe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EminlerMuhasebe_jar</output-path>
+    <root id="archive" name="EminlerMuhasebe.jar">
+      <element id="module-output" name="EminlerMuhasebe" />
+    </root>
+  </artifact>
+</component>
